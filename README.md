@@ -1,3 +1,35 @@
+#### English
+
+## 1. Run the Application:
+
+To run the application, you need to install MKVToolNix from [here](https://mkvtoolnix.download/) and install it on your computer. It's best to install it to the default directory `C:\Program Files\MKVToolNix`.
+
+## 2. Choose MKVExtract Path:
+
+Click "**Browse MKVExtract**" to select the path to the `mkvextract.exe` file. If you have installed MKVToolNix in a different directory, you'll need to do this step.
+
+## 3. Select Folder Containing MKV Files:
+
+Click "**Browse Folder**" to choose the folder containing the MKV video files you want to extract.
+
+## 4. Select Subtitle Language:
+
+From the "**Select language**" dropdown menu, choose the language of the subtitles you want to extract.
+
+## 5. Choose MKV Files to Extract:
+
+The list of MKV files in the selected folder will be displayed. Select the files you wish to extract subtitles from by clicking on each file.
+
+## 6. Extract Subtitles:
+
+Click "**Extract Subtitles**" to start the extraction process. The progress will be displayed on the progress bar. Upon completion, a success message will appear.
+
+### View Results:
+
+The extracted subtitle files will be saved in the "**subtitles**" folder within the same directory as the application.
+
+#### Tiếng việt 
+
 ## 1. Chạy ứng dụng:
 
 Để chạy được ứng dụng, bạn cần cài đặt MKVToolNix từ [đây](https://mkvtoolnix.download/) và cài đặt vào máy tính. Tốt nhất là cài đặt mặc định trong thư mục `C:\Program Files\MKVToolNix`.
